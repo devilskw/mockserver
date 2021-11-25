@@ -1,0 +1,156 @@
+{
+    "leads": [
+        {
+            "codigo_informacao":"1",
+            "codigo_lead": "1",
+            "codigo_parceiro": "XPTO.",
+            "nome": "Fulano de Tal",
+            "cpf": "999.999.999-99",
+            "nascimento": "31/12/2021",
+            "codigo_status": 2,
+            "codigo_tipo_bem": 1,
+            "valor_total_bem": 1233214.99,
+            "valor_maximo_mensalidade_bem": 1200,
+            "quantidade_total_parcela": 100,
+            "data_hora_inclusao": "12/31/2021 23:45:12",
+            "data_hora_manutencao": "12/31/2021 23:45:12",
+            "texto_observacao": "Teste 123",
+            "email": [
+                {
+                    "email": "fulano@de.tal"
+                }
+            ],
+            "telefone": [
+                {
+                    "ddd": "11",
+                    "telefone": "99999-9999"
+                }
+            ]
+        },
+        {
+            "codigo_informacao":"2",
+            "codigo_lead": "2",
+            "codigo_parceiro": "XPTO.",
+            "nome": "Fulano de Tal 2",
+            "cpf": "999.999.999-92",
+            "nascimento": "31/12/2022",
+            "codigo_status": 5,
+            "codigo_tipo_bem": 3,
+            "valor_total_bem": 214.99,
+            "valor_maximo_mensalidade_bem": 1200.22,
+            "quantidade_total_parcela": 12,
+            "data_hora_inclusao": "07/31/2021 11:45:12",
+            "data_hora_manutencao": "08/31/2021 08:45:12",
+            "texto_observacao": "Teste 12323",
+            "email": [
+                {
+                    "email": "fulano@de.tal2"
+                }
+            ],
+            "telefone": [
+                {
+                    "ddd": "12",
+                    "telefone": "99999-2222"
+                },
+                {
+                    "ddd": "13",
+                    "telefone": "99999-32122"
+                }
+            ]
+        },
+        {
+            "codigo_informacao":"3",
+            "codigo_lead": "3",
+            "codigo_parceiro": "ABCDEFG.",
+            "nome": "Ciclano de Tal",
+            "cpf": "3333.999.999-92",
+            "nascimento": "04/03/1972",
+            "codigo_status": 7,
+            "codigo_tipo_bem": 2,
+            "valor_total_bem": 43214.99,
+            "valor_maximo_mensalidade_bem": 434.22,
+            "quantidade_total_parcela": 122,
+            "data_hora_inclusao": "03/31/2021 11:45:12",
+            "data_hora_manutencao": "10/31/2021 08:45:12",
+            "texto_observacao": "Teste qwe323",
+            "email": [
+                {
+                    "email": "cliclano@de.tal"
+                }
+            ],
+            "telefone": [
+                {
+                    "ddd": "11",
+                    "telefone": "3333-2222"
+                },
+                {
+                    "ddd": "33",
+                    "telefone": "33333-32122"
+                }
+            ]
+        },
+        {
+            "codigo_informacao":"4",
+            "codigo_lead": "4",
+            "codigo_parceiro": "ABCDEFG.",
+            "nome": "Cicl4ano de Tal",
+            "cpf": "33343.999.999-92",
+            "nascimento": "04/03/1974",
+            "codigo_status": 4,
+            "codigo_tipo_bem": 4,
+            "valor_total_bem": 43214.99,
+            "valor_maximo_mensalidade_bem": 434.22,
+            "quantidade_total_parcela": 23,
+            "data_hora_inclusao": "06/31/2021 11:45:12",
+            "data_hora_manutencao": "08/31/2021 08:45:12",
+            "texto_observacao": "Teste qwe323",
+            "email": [
+                {
+                    "email": "cliclaewrno@de.tal"
+                }
+            ],
+            "telefone": [
+                {
+                    "ddd": "14",
+                    "telefone": "34333-2222"
+                },
+                {
+                    "ddd": "34",
+                    "telefone": "333633-32122"
+                }
+            ]
+        },
+        {
+            "codigo_informacao":"5",
+            "codigo_lead": "5",
+            "codigo_parceiro": "AB5CDEFG.",
+            "nome": "C5icl4ano de Tal",
+            "cpf": "33543.999.999-92",
+            "nascimento": "05/05/1975",
+            "codigo_status": 2,
+            "codigo_tipo_bem": 1,
+            "valor_total_bem": 43214.99,
+            "valor_maximo_mensalidade_bem": 434.22,
+            "quantidade_total_parcela": 333,
+            "data_hora_inclusao": "06/31/2021 11:45:12",
+            "data_hora_manutencao": "08/31/2021 08:45:12",
+            "texto_observacao": "Teste qwe323",
+            "email": [
+                {
+                    "email": "cl3iclaewrno@de.tal"
+                }
+            ],
+            "telefone": [
+                {
+                    "ddd": "14",
+                    "telefone": "34443-2222"
+                },
+                {
+                    "ddd": "34",
+                    "telefone": "355633-32122"
+                }
+            ]
+        }
+    ],
+    "total_elements": 5
+}
